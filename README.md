@@ -19,3 +19,7 @@ Azure CLI
 
 https://docs.microsoft.com/en-us/cli/azure/group?view=azure-cli-latest
 https://docs.microsoft.com/en-us/cli/azure/storage?view=azure-cli-latest
+
+
+LAB 01
+https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/20533D_LAB_01.md
