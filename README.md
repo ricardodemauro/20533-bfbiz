@@ -1,10 +1,10 @@
 # 20533-bfbiz - turma 19/03/2018
 
+### Github https://tinyurl.com/20533-bfbiz
+
 Senha máquina: Japones@
 
 Senha VM: Pa55w.rd
-
-#### Github https://tinyurl.com/20532bf
 
 #### Docs VM https://codeload.github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/zip/master
 
