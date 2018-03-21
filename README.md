@@ -13,6 +13,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### AzCopy | https://docs.microsoft.com/pt-br/azure/storage/common/storage-use-azcopy
 
+#### Azure Resource Manage Template Visualizer | http://armviz.io/
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
