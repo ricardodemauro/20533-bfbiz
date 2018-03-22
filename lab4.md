@@ -76,21 +76,47 @@ The main tasks for this exercise are as follows:
 
 #### Task 2: Implement an Azure Load Balancer
   
-1. On MIA-CL1, from the Azure portal, create an Azure load balancer with the following settings:
+1. On MIA-CL1, from the Azure portal
 
-  - Name: **20533D0401-ilb**
+  - Click **Create a resource** then **Networking** then **Load Balancer**
+   
+  - Use the following settings:
 
-  - Type: **Public**
+    - Name: **20533D0401-ilb**
 
-  - Public IP address: create a new IP address named **20533D0401-ilbfe** with dynamically assigned IP address
+    - Type: **Public**
 
-  - Subscription: the name of your Azure subscription
+    - Public IP address: create a new IP address named **20533D0401-ilbfe** with dynamically assigned IP address
 
-  - Resource group: **20533D0401-LabRG**
+    - Subscription: the name of your Azure subscription
 
-  - Location: the same Azure region you chose when running the provisioning script at the beginning of this module
+    - Resource group: **20533D0401-LabRG**
+
+    - Location: the same Azure region you chose when running the provisioning script at the beginning of this module
 
 2. Configure the newly created load balancer with the backend pool named **20533D0401-ilb-bepool** and associate it to the availability set **20533D0401-avset** with **ipconfig1** of **20533D0401-vm0** and **ipconfig1* of **20533D0401-vm1**.
+
+  - Navigate to recent created **Load Balancer**
+  
+  - On Backend pools jouney create a pool with the following parameters
+  
+    - Name **20533D0401-ilb-bepool**
+    
+    - Associated to **Availabitlity Set**
+    
+    - Availability set **20533D0401-avset**
+    
+    - +Add a target network IP configuration
+    
+      - Target virtual machine **20533D0401-vm0**
+     
+      - Network IP configuration **ipconfig1**
+     
+    - +Add a target network IP configuration
+    
+      - Target virtual machine **20533D0401-vm1**
+     
+      - Network IP configuration **ipconfig1**
 
 3. Configure the load balancer with the health probe that has the following settings:
 
@@ -290,7 +316,9 @@ The main tasks for this exercise are as follows:
 
 #### Task 1: Attach VHDs to an Azure VM
   
-1. On MIA-CL1, from the Azure portal in the Internet Explorer window, attach to the 20533D0401-vm2 virtual machine a managed data disks with the following settings:
+1. On MIA-CL1, from the Azure portal in the Internet Explorer window, navigate to the virtual machine **20533D0401-vm2** blade.
+
+2. Go to **disks** section then click **+ Add data disk** with the following parameters
 
   - Name: **20533D0401-vm2-data01**
 
@@ -304,7 +332,7 @@ The main tasks for this exercise are as follows:
 
   - HOST CACHING: **None** 
 
-2. On MIA-CL1, from the Azure portal in the Internet Explorer window, attach to the 20533D0401-vm2 virtual machine a managed data disks with the following settings:
+2. Repeteat the processed in the same Virtual Machine to the second disk.
 
   - Name: **20533D0401-vm2-data02**
 
@@ -323,9 +351,27 @@ The main tasks for this exercise are as follows:
   
 1. On MIA-CL1, switch to the Remote Desktop session to 20533D0401-vm2.
 
+  - user: Student
+  
+  - password: Pa55w.rd1234
+
 2. While connected to 20533D0401-vm2, from the Server Manager window, create a storage pool named **StoragePool1** consisting of two newly attached disks.
 
+  - In Server Manager click **File and Storage Services** then **Storage Pools**
+  
+  - Click in **Tasks** (upper rigth) **new storage pool...**
+  
+    - Name **StoragePool1**
+    
+    - Select All
+    
+    - Create
+
 3. From the Server Manager window, create a new virtual disk named **VirtualDisk1** using **StoragePool1** with the **Simple** storage layout, the **Fixed** provisioning type, and the maximum size.
+
+  - Rigth click in **StoragePool1** - then **new virtual disk**
+  
+    - Name **VirtualDisk1**
 
 4. From the Server Manager window, create a new volume of maximum size, mount it as the F: drive and format it with NTFS and a default allocation unit.
 
