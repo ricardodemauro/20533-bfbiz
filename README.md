@@ -21,6 +21,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Comandos Azure Powershell e Azure Cli 2
 
+#### Linux VM Agent | https://docs.microsoft.com/en-us/azure/virtual-machines/linux/agent-user-guide
+
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
 
 az login | az logout | az account list | az account set 'MySub' (select a subscription)
