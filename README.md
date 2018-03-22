@@ -27,6 +27,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### App Service Environment | https://docs.microsoft.com/en-us/azure/app-service/environment/app-service-app-service-environment-intro
 
+#### Azure App Service Hybrid Connections | https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections
+
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
 
 az login | az logout | az account list | az account set 'MySub' (select a subscription)
