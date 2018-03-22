@@ -28,6 +28,24 @@
  Password: **Pa55w.rd**
 
 
+## Before start
+
+First you need to run Add-20533Scenario.
+
+   - Open Powershell as administrator and navigate to E:\Modules\
+   
+   - Execute **Add-20533DEnvironment**
+   
+   - Values
+   
+      - Lab **4**
+      
+      - Azure Pass subscription
+   
+      - Region **eastus**
+      
+      - VMSize **Standard_D1_V2**
+
 ## Exercise 1: Creating and configuring Azure Load Balancing 
   
 ### Scenario
