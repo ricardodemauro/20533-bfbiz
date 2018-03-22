@@ -23,6 +23,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Linux VM Agent | https://docs.microsoft.com/en-us/azure/virtual-machines/linux/agent-user-guide
 
+#### Custom script extension | https://docs.microsoft.com/pt-br/azure/virtual-machines/windows/extensions-customscript?toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Fclassic%2Ftoc.json
+
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
 
 az login | az logout | az account list | az account set 'MySub' (select a subscription)
