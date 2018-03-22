@@ -15,6 +15,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Storage Performance | https://docs.microsoft.com/en-us/azure/virtual-machines/windows/premium-storage-performance
 
+#### Premiun Disk | https://azure.microsoft.com/en-us/blog/azure-premium-storage-now-generally-available-2/
+
 #### Azure Resource Manage Template Visualizer | http://armviz.io/
 
 #### Comandos Azure Powershell e Azure Cli 2
