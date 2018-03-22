@@ -13,6 +13,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### AzCopy | https://docs.microsoft.com/pt-br/azure/storage/common/storage-use-azcopy
 
+#### Storage Performance | https://docs.microsoft.com/en-us/azure/virtual-machines/windows/premium-storage-performance
+
 #### Azure Resource Manage Template Visualizer | http://armviz.io/
 
 #### Comandos Azure Powershell e Azure Cli 2
