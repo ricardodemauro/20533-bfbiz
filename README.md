@@ -33,6 +33,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Storage Disk Performance | https://docs.microsoft.com/pt-br/azure/virtual-machines/windows/premium-storage
 
+#### Azure Backup | https://docs.microsoft.com/pt-br/azure/backup/backup-introduction-to-azure-backup
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
