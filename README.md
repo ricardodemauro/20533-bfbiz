@@ -23,6 +23,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Linux VM Agent | https://docs.microsoft.com/en-us/azure/virtual-machines/linux/agent-user-guide
 
+#### Vm Scale Set | https://docs.microsoft.com/pt-br/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-create-portal
+
 #### Custom script extension | https://docs.microsoft.com/pt-br/azure/virtual-machines/windows/extensions-customscript?toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Fclassic%2Ftoc.json
 
 #### App Service Environment | https://docs.microsoft.com/en-us/azure/app-service/environment/app-service-app-service-environment-intro
