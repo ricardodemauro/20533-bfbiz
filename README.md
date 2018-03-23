@@ -8,8 +8,9 @@ Senha VM: Pa55w.rd
 
 #### Docs VM https://codeload.github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/zip/master
 
-Azure Pricing Calculator
-https://azure.microsoft.com/pt-br/pricing/calculator/
+Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
+
+## Import-Module AzureRM | https://docs.microsoft.com/pt-br/powershell/azure/install-azurerm-ps?view=azurermps-5.5.0
 
 #### AzCopy | https://docs.microsoft.com/pt-br/azure/storage/common/storage-use-azcopy
 
