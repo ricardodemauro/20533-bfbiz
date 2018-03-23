@@ -36,6 +36,8 @@ Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Azure Backup | https://docs.microsoft.com/pt-br/azure/backup/backup-introduction-to-azure-backup
 
+#### Azure Dev Test Labs | https://docs.microsoft.com/pt-br/azure/devtest-lab/
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
