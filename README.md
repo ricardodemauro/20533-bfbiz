@@ -31,6 +31,8 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Storage Replica | https://docs.microsoft.com/pt-br/azure/storage/common/storage-redundancy
 
+#### Storage Disk Performance | https://docs.microsoft.com/pt-br/azure/virtual-machines/windows/premium-storage
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
