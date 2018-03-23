@@ -19,8 +19,6 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Azure Resource Manage Template Visualizer | http://armviz.io/
 
-#### Comandos Azure Powershell e Azure Cli 2
-
 #### Linux VM Agent | https://docs.microsoft.com/en-us/azure/virtual-machines/linux/agent-user-guide
 
 #### Vm Scale Set | https://docs.microsoft.com/pt-br/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-create-portal
@@ -30,6 +28,10 @@ https://azure.microsoft.com/pt-br/pricing/calculator/
 #### App Service Environment | https://docs.microsoft.com/en-us/azure/app-service/environment/app-service-app-service-environment-intro
 
 #### Azure App Service Hybrid Connections | https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections
+
+#### Storage Replica | https://docs.microsoft.com/pt-br/azure/storage/common/storage-redundancy
+
+#### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
 
