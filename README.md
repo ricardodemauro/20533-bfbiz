@@ -40,6 +40,8 @@ Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Continous Delivery | https://blogs.msdn.microsoft.com/devops/2016/11/17/azure-app-services-continuous-delivery/
 
+#### Azure Container | https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dockerextension
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
