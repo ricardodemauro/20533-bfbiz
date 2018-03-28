@@ -50,6 +50,8 @@ Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### RBAC Azure | https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-built-in-roles
 
+#### SLA Downtime calc | https://uptime.is/
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
