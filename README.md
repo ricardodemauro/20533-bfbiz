@@ -42,6 +42,12 @@ Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Azure Container | https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dockerextension
 
+### VPN
+
+#### Point to Site VPN | https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal
+
+#### Site to Site VPN  | https://docs.microsoft.com/pt-br/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
