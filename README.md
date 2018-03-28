@@ -74,7 +74,6 @@ https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastruct
 
 https://github.com/ricardodemauro/20533-bfbiz/blob/master/lab003.md
 
-
 #### LAB 05 
 
 https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/20533D_LAB_AK_05.md
@@ -83,11 +82,9 @@ https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastruct
 
 https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/20533D_LAB_AK_06.md
 
-
 #### LAB 07
 
 https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/blob/master/Instructions/20533D_LAB_AK_07.md
-
 
 #### LAB 08
 
