@@ -48,6 +48,8 @@ Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### Site to Site VPN  | https://docs.microsoft.com/pt-br/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal
 
+#### RBAC Azure | https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-built-in-roles
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
