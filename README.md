@@ -52,6 +52,8 @@ Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### SLA Downtime calc | https://uptime.is/
 
+#### MFA | https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-get-started-cloud
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
