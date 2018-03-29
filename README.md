@@ -56,8 +56,9 @@ Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### MFA Advanced | https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-whats-next
 
-
 #### Log Analytics | https://azure.microsoft.com/pt-br/services/log-analytics/
+
+#### Getting Started Log Analytics | https://docs.microsoft.com/pt-br/azure/log-analytics/log-analytics-quick-collect-windows-computer
 
 #### Comandos Azure Powershell e Azure Cli 2
 
