@@ -56,6 +56,9 @@ Azure Pricing Calculator | https://azure.microsoft.com/pt-br/pricing/calculator/
 
 #### MFA Advanced | https://docs.microsoft.com/en-us/azure/multi-factor-authentication/multi-factor-authentication-whats-next
 
+
+#### Log Analytics | https://azure.microsoft.com/pt-br/services/log-analytics/
+
 #### Comandos Azure Powershell e Azure Cli 2
 
 Login-AzureRMAccount | Logout-AzureRMAccount | Get-AzureRmSubscription | Select-AzureRmSubscription
