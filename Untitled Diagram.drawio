@@ -1,53 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T00:26:39.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KESAM_0TDUOSO8FexoRD" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T14:42:58.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7MiErzM8gTHWavm3PZg6" version="20.8.5" type="github">
   <diagram id="JSomX8vdU5MUfrDyIj9W" name="Page-1">
-    <mxGraphModel dx="806" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="90" width="350" height="330" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="90" width="350" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-2" value="Game Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="310" height="30" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-2" value="Game Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="110" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-3" value="Type Achivement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="160" width="310" height="30" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-3" value="Type Achivement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="160" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-4" value="Date and Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="210" width="310" height="30" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-4" value="Date and Time" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="210" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-5" value="Discord Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="260" width="310" height="30" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-5" value="Discord Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="260" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-6" value="Create" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="130" height="30" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-6" value="Create" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="370" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="90" width="300" height="320" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="90" width="300" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-8" value="Lemon Player&lt;br&gt;Need For Speed&lt;br&gt;21:00&lt;br&gt;US" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-8" value="Lemon Player&lt;br&gt;Need For Speed&lt;br&gt;21:00&lt;br&gt;US" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-9" value="Tangerine Mike&lt;br&gt;Forza Horizon&lt;br&gt;21:30&lt;br&gt;Brazil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-9" value="Tangerine Mike&lt;br&gt;Forza Horizon&lt;br&gt;21:30&lt;br&gt;Brazil" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-10" value="Passion Fruit&lt;br&gt;CS Go&lt;br&gt;21:30&lt;br&gt;Italy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-10" value="Passion Fruit&lt;br&gt;CS Go&lt;br&gt;21:30&lt;br&gt;Italy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-11" value="Gaules&lt;br&gt;CS Go&lt;br&gt;21:30&lt;br&gt;France" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-11" value="Gaules&lt;br&gt;CS Go&lt;br&gt;21:30&lt;br&gt;France" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-12" value="Lemonade&lt;br&gt;Forza Horizon&lt;br&gt;21:30&lt;br&gt;Italy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-12" value="Lemonade&lt;br&gt;Forza Horizon&lt;br&gt;21:30&lt;br&gt;Italy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-14" value="Lemonade&lt;br&gt;Forza Horizon&lt;br&gt;21:30&lt;br&gt;Italy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-14" value="Lemonade&lt;br&gt;Forza Horizon&lt;br&gt;21:30&lt;br&gt;Italy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-15" value="Filter Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="120" height="30" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-15" value="Filter Game" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WdYLA3FG4oNDwsRb22hL-16" value="Filter Region" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="100" width="120" height="30" as="geometry" />
+        <mxCell id="WdYLA3FG4oNDwsRb22hL-16" value="Filter Region" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uzu6TQv-j8-bodLCAe8a-1" value="Create New Entry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uzu6TQv-j8-bodLCAe8a-2" value="Main Page - List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
